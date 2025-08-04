@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1oraJGVFjc=",
+  "success": true,
+  "projectFilePath": "/home/eenow/Documents/fit3162/net-task-managment/task-management-system/task-management-system.csproj",
+  "expectedPackageFiles": [
+    "/home/eenow/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
